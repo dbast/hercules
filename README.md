@@ -56,6 +56,9 @@ Table of Contents
     * [Caveats](#caveats)
     * [Burndown Out-Of-Memory](#burndown-out-of-memory)
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdbast%2Fhercules.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdbast%2Fhercules?ref=badge_large)
+
 ## Overview
 
 Hercules is an amazingly fast and highly customizable Git repository analysis engine written in Go. Batteries are included.
@@ -217,6 +220,7 @@ by `|`. The case is ignored.
 #### Churn matrix
 
 ![Wireshark top 20 churn matrix](doc/wireshark_churn_matrix.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdbast%2Fhercules.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdbast%2Fhercules?ref=badge_shield)
 <p align="center">Wireshark top 20 devs - churn matrix</p>
 
 ```
